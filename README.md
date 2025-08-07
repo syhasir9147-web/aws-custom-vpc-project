@@ -48,5 +48,9 @@ I’m **Sayyed Hasir**, building my cloud skills through the AWS re/Start progra
 This is my third hands-on project and first deep dive into AWS networking!
 
 ---
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasir-sayyed-b16520245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+
 
 
