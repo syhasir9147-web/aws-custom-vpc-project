@@ -49,7 +49,4 @@ This is my third hands-on project and first deep dive into AWS networking!
 
 ---
 
-## 🔗 Connect With Me
-
-- 💼 [LinkedIn Profile](www.linkedin.com/in/hasir-sayyed-b16520245) *(add your actual link)*
 
